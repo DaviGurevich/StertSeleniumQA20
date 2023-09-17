@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="201876b0-59c8-4969-b594-18ff9ec60d35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumCSSIlcarro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/LocatorsSeleniumStartPhonebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,20 +57,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Acer/IdeaProjects/StertSeleniumQA20/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.SeleniumCSSIlcarro">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="StertSeleniumQA20.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LocatorsSeleniumStartPhonebook">
     <configuration name="StertSeleniumQA20 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,6 +79,41 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
       <method v="2" />
+    </configuration>
+    <configuration name="LocatorsSeleniumStartPhonebook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StertSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.LocatorsSeleniumStartPhonebook" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorsSeleniumStartPhonebook.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StertSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.LocatorsSeleniumStartPhonebook" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SeleniumCSSIlcarro" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="StertSeleniumQA20.main" />
@@ -131,10 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LocatorsSeleniumStartPhonebook" />
+        <item itemvalue="TestNG.LocatorsSeleniumStartPhonebook.test1" />
         <item itemvalue="TestNG.SeleniumCSSIlcarro" />
         <item itemvalue="TestNG.SeleniumCSSIlcarro.test1" />
         <item itemvalue="Gradle.StertSeleniumQA20 [dependencies]" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694538687073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dependencies">
+      <option name="closed" value="true" />
+      <created>1694854320031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694854320031</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +204,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/seleniumour/SeleniumCSSIlcarro.java</url>
           <line>46</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/seleniumour/LocatorsSeleniumStartPhonebook.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
