@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="201876b0-59c8-4969-b594-18ff9ec60d35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/LocatorsSeleniumStartPhonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumXpathIlCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/TableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,29 +59,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Acer/IdeaProjects/StertSeleniumQA20/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.LocatorsSeleniumStartPhonebook">
-    <configuration name="StertSeleniumQA20 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="dependencies" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="TestNG.SeleniumXpathIlCarro.testXpath">
     <configuration name="LocatorsSeleniumStartPhonebook" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="StertSeleniumQA20.main" />
       <extension name="coverage">
@@ -115,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumCSSIlcarro" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumXpathIlCarro" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="StertSeleniumQA20.main" />
       <extension name="coverage">
         <pattern>
@@ -124,7 +104,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="seleniumour" />
-      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumCSSIlcarro" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumXpathIlCarro" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -132,7 +112,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumCSSIlcarro.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumXpathIlCarro.testXpath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="StertSeleniumQA20.main" />
       <extension name="coverage">
         <pattern>
@@ -141,9 +121,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="seleniumour" />
-      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumCSSIlcarro" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumXpathIlCarro" />
+      <option name="METHOD_NAME" value="testXpath" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StertSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.TableTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -152,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SeleniumXpathIlCarro.testXpath" />
+        <item itemvalue="TestNG.SeleniumXpathIlCarro" />
+        <item itemvalue="TestNG.TableTest" />
         <item itemvalue="TestNG.LocatorsSeleniumStartPhonebook" />
         <item itemvalue="TestNG.LocatorsSeleniumStartPhonebook.test1" />
-        <item itemvalue="TestNG.SeleniumCSSIlcarro" />
-        <item itemvalue="TestNG.SeleniumCSSIlcarro.test1" />
-        <item itemvalue="Gradle.StertSeleniumQA20 [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +206,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/seleniumour/LocatorsSeleniumStartPhonebook.java</url>
           <line>10</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/seleniumour/SeleniumXpathIlCarro.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
